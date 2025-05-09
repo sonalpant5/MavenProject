@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-09T11:36:05 GMT-05:00" name="Maven Tests" finished-at="2025-05-09T11:36:20 GMT-05:00" duration-ms="14814">
+    <groups>
+    </groups>
+    <test started-at="2025-05-09T11:36:05 GMT-05:00" name="Sele Maven" finished-at="2025-05-09T11:36:20 GMT-05:00" duration-ms="14814">
+      <class name="selemvn.SeleSampleApp">
+        <test-method is-config="true" signature="bc()[pri:0, instance:selemvn.SeleSampleApp@55b699ef]" started-at="2025-05-09T11:36:05 GMT-05:00" name="bc" finished-at="2025-05-09T11:36:12 GMT-05:00" duration-ms="6707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method signature="launchDocumentation()[pri:2, instance:selemvn.SeleSampleApp@55b699ef]" started-at="2025-05-09T11:36:12 GMT-05:00" name="launchDocumentation" finished-at="2025-05-09T11:36:15 GMT-05:00" duration-ms="3438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDocumentation -->
+        <test-method signature="launchWebDriver()[pri:3, instance:selemvn.SeleSampleApp@55b699ef]" started-at="2025-05-09T11:36:15 GMT-05:00" name="launchWebDriver" finished-at="2025-05-09T11:36:19 GMT-05:00" duration-ms="3547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebDriver -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:selemvn.SeleSampleApp@55b699ef]" started-at="2025-05-09T11:36:19 GMT-05:00" name="ac" finished-at="2025-05-09T11:36:20 GMT-05:00" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- selemvn.SeleSampleApp -->
+    </test> <!-- Sele Maven -->
+  </suite> <!-- Maven Tests -->
+</testng-results>
